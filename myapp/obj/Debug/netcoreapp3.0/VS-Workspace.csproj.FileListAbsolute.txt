@@ -1,0 +1,11 @@
+C:\Users\tony.huang\VS-Workspace\myapp\bin\Debug\netcoreapp3.0\VS-Workspace.exe
+C:\Users\tony.huang\VS-Workspace\myapp\bin\Debug\netcoreapp3.0\VS-Workspace.deps.json
+C:\Users\tony.huang\VS-Workspace\myapp\bin\Debug\netcoreapp3.0\VS-Workspace.runtimeconfig.json
+C:\Users\tony.huang\VS-Workspace\myapp\bin\Debug\netcoreapp3.0\VS-Workspace.runtimeconfig.dev.json
+C:\Users\tony.huang\VS-Workspace\myapp\bin\Debug\netcoreapp3.0\VS-Workspace.dll
+C:\Users\tony.huang\VS-Workspace\myapp\bin\Debug\netcoreapp3.0\VS-Workspace.pdb
+C:\Users\tony.huang\VS-Workspace\myapp\obj\Debug\netcoreapp3.0\VS-Workspace.csprojAssemblyReference.cache
+C:\Users\tony.huang\VS-Workspace\myapp\obj\Debug\netcoreapp3.0\VS-Workspace.AssemblyInfoInputs.cache
+C:\Users\tony.huang\VS-Workspace\myapp\obj\Debug\netcoreapp3.0\VS-Workspace.AssemblyInfo.cs
+C:\Users\tony.huang\VS-Workspace\myapp\obj\Debug\netcoreapp3.0\VS-Workspace.dll
+C:\Users\tony.huang\VS-Workspace\myapp\obj\Debug\netcoreapp3.0\VS-Workspace.pdb

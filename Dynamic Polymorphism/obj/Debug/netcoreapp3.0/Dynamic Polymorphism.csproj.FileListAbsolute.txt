@@ -1,0 +1,11 @@
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\obj\Debug\netcoreapp3.0\Dynamic Polymorphism.csprojAssemblyReference.cache
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\obj\Debug\netcoreapp3.0\Dynamic Polymorphism.AssemblyInfoInputs.cache
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\obj\Debug\netcoreapp3.0\Dynamic Polymorphism.AssemblyInfo.cs
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\bin\Debug\netcoreapp3.0\Dynamic Polymorphism.exe
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\bin\Debug\netcoreapp3.0\Dynamic Polymorphism.deps.json
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\bin\Debug\netcoreapp3.0\Dynamic Polymorphism.runtimeconfig.json
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\bin\Debug\netcoreapp3.0\Dynamic Polymorphism.runtimeconfig.dev.json
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\bin\Debug\netcoreapp3.0\Dynamic Polymorphism.dll
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\bin\Debug\netcoreapp3.0\Dynamic Polymorphism.pdb
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\obj\Debug\netcoreapp3.0\Dynamic Polymorphism.dll
+C:\Users\tony.huang\VS-Workspace\Dynamic Polymorphism\obj\Debug\netcoreapp3.0\Dynamic Polymorphism.pdb

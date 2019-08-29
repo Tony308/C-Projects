@@ -1,0 +1,11 @@
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\bin\Debug\netcoreapp3.0\Constructor Chaining Demo.exe
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\bin\Debug\netcoreapp3.0\Constructor Chaining Demo.deps.json
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\bin\Debug\netcoreapp3.0\Constructor Chaining Demo.runtimeconfig.json
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\bin\Debug\netcoreapp3.0\Constructor Chaining Demo.runtimeconfig.dev.json
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\bin\Debug\netcoreapp3.0\Constructor Chaining Demo.dll
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\bin\Debug\netcoreapp3.0\Constructor Chaining Demo.pdb
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\obj\Debug\netcoreapp3.0\Constructor Chaining Demo.csprojAssemblyReference.cache
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\obj\Debug\netcoreapp3.0\Constructor Chaining Demo.AssemblyInfoInputs.cache
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\obj\Debug\netcoreapp3.0\Constructor Chaining Demo.AssemblyInfo.cs
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\obj\Debug\netcoreapp3.0\Constructor Chaining Demo.dll
+C:\Users\tony.huang\VS-Workspace\Constructor Chaining Demo\obj\Debug\netcoreapp3.0\Constructor Chaining Demo.pdb
